@@ -10,4 +10,4 @@ Core ideas behind each of the problem:
 * lab7 - Use of Priority Queue
 * lab8 - Uses Dijkstra's algorithm on a specific graph.
 * zal1 - Dynamic programming with two iterators.
-* zal2 - 
+* zal2 - Offline processing. Priority queue.
